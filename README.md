@@ -7,3 +7,4 @@ I chose the recall metric as the scoring metric since the goal to me was to maxi
 ## Charts
 From a high level picture, we can see that the Logistic Regression model performed the best given that we don't want to spend the amount of resources on training a SVM for this process.
 ### Overall Performance
+![Overall](data/metrics.png)
